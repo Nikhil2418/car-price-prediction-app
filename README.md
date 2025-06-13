@@ -34,3 +34,8 @@ This project is a **Car Price Predictor** built using **Linear Regression**. The
 
 <pre><code>## 📁 Project Structure ``` Car-Price-Prediction-App/ │ ├── app.py # Main Flask application ├── LinearRegressionModel.pkl # Pickled machine learning model ├── Cleaned_Car.csv # Dataset (optional) ├── requirements.txt # Python dependencies ├── .gitignore # Git ignore rules │ ├── static/ # Static files (CSS, JS, images) │ └── css/ │ └── style.css # Styling for the web page │ ├── templates/ # HTML templates │ └── index.html # Main UI form ``` </code></pre>
 
+## 👨‍💻 Author
+
+- [Nikhil Kumar](https://github.com/Nikhil2418)
+
+
